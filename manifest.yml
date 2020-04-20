@@ -1,5 +1,5 @@
 applications:
-  name: language-translator-demo
+  name: language-translator-SATR-BIL-Maksym
   command: npm start
   path: .
   memory: 256M
