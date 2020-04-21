@@ -1,5 +1,5 @@
 {
-  "name": "language-translator-demo",
+  "name": "language-translator-SATR-BIL-Maksym",
   "version": "0.3.10",
   "description": "A sample nodejs app for the IBM Cloud that use the Language Translator service",
   "dependencies": {
