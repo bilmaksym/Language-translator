@@ -1,5 +1,5 @@
 applications:
-  name: language-translator-SATR-BIL-Maksym
+  name: Language Translator-sw
   command: npm start
   path: .
   memory: 256M
